@@ -31,7 +31,5 @@ services:
       MYSQL_PASSWORD: shiori
     ports:
       - "3306:3306"
-      
-      
- volumes:
+volumes:
   shiori:
